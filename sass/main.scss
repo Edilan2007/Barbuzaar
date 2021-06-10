@@ -1,0 +1,9 @@
+@import "layout/menu";
+@import "components/mobile";
+@import "utils/mixins";
+
+*{
+    box-sizing: border-box;
+    background-color: $secondary-color;
+}
+

@@ -1,0 +1,23 @@
+ /******************** Navbar ********************************/
+$primary-color: #f7e9cf;
+$secondary-color: #faf4ec;
+
+ .logo{
+    width: 60px;
+ }
+ 
+ .navbar-nav{
+
+    .nav-item{
+        display: inline-block;
+        position: relative;
+        padding-left: 80px;
+        padding-right: 80px;
+        font-size: 35px;
+        text-transform: uppercase;
+        text-decoration: none;
+        
+    }
+    
+ }
+ 
